@@ -79,3 +79,5 @@ var Base64Binary = {
 		return uarray;	
 	}
 };
+
+module.exports = Base64Binary;
